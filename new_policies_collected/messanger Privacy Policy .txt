@@ -1,0 +1,117 @@
+
+
+?This Privacy Policy applies beginning Aug 30, 2018. You may change your consent anytime in our App Settings.
+ 
+Please read this Policy carefully. This Policy provides you with information on how we collect, use and/or share the information obtained from you. This Policy applies to our Application and does not apply to any third party services, websites, software and content that may be linked to from within the Application.
+BY ACCESSING, VISITING AND/OR USING THE APPLICATION, YOU CONSENT TO OUR USE OF ANY INFORMATION THAT YOU PROVIDE TO US OR OUR PARTENERS  IN ACCORDANCE WITH THIS POLICY. IF YOU DO NOT AGREE TO THIS POLICY, DO NOT ACCESS, VISIT AND/OR USE THE APPLICATION.
+ 
+1. Information We Collect and Use
+1.We collect some of the standard information (Non Personal Information and Personal Information) required to operate and optimize ads experience. This information includes, without limitation:
+• IP address and MAC address of your mobile device
+• Your mobile device brand and model
+• Your Age and Gender
+• Your mobile OS
+• Contacts list
+• Recent searches performed in the App, using our service
+• Information regarding third parties applications installed on your device
+• The Advertising ID of your device (to learn more about limiting ad tracking using this identifier, visit the Settings menu in your device)
+• To provide you an optimized user experience we might use the geolocation of your device for showing targeted ads
+• Version of SDKs
+• The spam call number that user reported
+We collect and use this information to measure, improve our services over time, and giving you an optimized user experience.
+2.Information collected by our Third Party Advertising Partners
+We work with third party advertising partners to provide personalized ads for you. Our partners include but are not limited to Google AdMob, DoubleClick Ad Exchange, DoubleClick for Publishers, Facebook Audience Network, MoPub, Amazon, Fyber, Smaato, and etc. You may find more details about our partners in links below:
+•    https://www.mopub.com/legal/privacy/
+•    https://www.mopub.com/legal/partners/
+Our partners may collect hardware and software information such as IP address, device ID and type, advertising IDs (such as Google's AAID and Apple's IDFA, both of which are randomly generated numbers that you can reset by going into your device' settings), device language, operating system, time zones, and identifiers associated with cookies or other technologies that may uniquely identify your device.
+2. Information Sharing and Disclosure
+The information is shared with our trusted partners and affiliates only (all under signed confidentiality agreements) and with the purpose of delivering a better service to you.
+In more details:
+•we will present you with targeted ads, based on the information collected by us and share with our partners. The shared information may be one or more of the following: IP address, Geo location, Search queries performed in the app.
+• Information passed to third parties will never include any information such as name, email, phone number, etc.
+3. Security
+We have implemented security safeguards designed to protect your personal information in accordance with industry standards. We limit access to your information on our servers, and it is password-protected/encrypted. We also regularly monitor our servers for possible vulnerabilities and attacks. Nevertheless, as the Internet is not a 100% secure environment, we cannot guarantee the security of any information that you transmit to us. There is no guarantee that information on our servers may not be accessed, disclosed, altered, or destroyed by breach of our safeguards.
+4. Our Policy Towards Children.
+We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under that age has provided us with personal information, we take steps to remove such information from our servers. If you become aware that your child has provided us with personal information, please contact us.
+5. Modifying Your Personal Information.
+You have a right to request that we delete any of your personal information in our possession by sending us an email (with your expressed request) using the Contact Us button inside the Application. We will generally delete your information within 30 days of receipt of your request.
+6. Changes to This Policy.
+We may need to change this Policy from time to time in order to address new issues and to reflect changes to the Application or applicable law. We reserve the right to revise or make any changes to this Policy in our sole discretion, and your continual use of the Application subsequent to any changes to this Policy shall conclusively mean that you accept such changes. You can tell when this Policy has been updated by checking the last updated date posted on the top of this page.
+7. Privacy Policies of bundled Services and SDKs
+For us to be able to deliver the Application and its functionalities to you, we use third party sub-suppliers, to whom we may transfer data. Our sub-suppliers have all guaranteed that they will live up to the terms of this privacy policy, including ensuring safe-keeping of your personal data. With your acceptance of this Privacy Policy and by using the Application, you agree to the processing of your data in the form of a transfer to third parties.
+All of our sub-suppliers reserve the right to use the transferred information for statistics and user support without restrictions regarding applicability in time. Please note that we may also disclose information associated with you as well as contact information to third parties if required by law, in order to protect or defend our own rights.
+
+You also agree not to use Melons HK Limited:
+to violate any law or regulation;
+to violate or infringe other people’s intellectual property, privacy, or other rights;
+to transmit anything that is illegal, abusive, harassing, racist, hateful, or otherwise objectionable in our opinion;
+to transmit images that are sexually explicit, pornographic, obscene, or otherwise objectionable in our opinion;
+in violation of our Community Guidelines or other published policies;
+to violate any contract, rules or policies that govern the use of your mobile device, as directed by your wireless carrier and mobile device manufacturer;
+to send unwanted messages, make unwanted calls or transmit unauthorized advertising or commercial communications, such as spam;
+to transmit any malicious or unsolicited software;
+to stalk, harass, or harm another individual;
+to impersonate any person or entity, use a fictitious name, or misrepresent your affiliation with a person or entity;
+to violate any requirements, procedures, policies or regulations of networks connected to Melons HK Limited; or
+to interfere with or disrupt Melons HK Limited
+?
+8. Contact Information
+If you have any questions or comments about this Policy, please contact us using the Contact Us button inside the Application.
+ 
+9. Permissions used by Melons messenger apps
+1. Camera permission
+Camera permission is only required for take phones in Melons messenger apps. 
+2. Read your contacts
+Our messenger apps need to recognize who you chat with and show your contact list. We will never upload any users’ contacts information.
+3. Read phone status and identity
+The only purpose using this permission is to identify different users. Phone status and identity are not read for any other purposes.
+4. Read the contents of your storage
+This permission allows users to view send or received phones, videos or audios files stored on their SD card.
+5. Modify or delete the contents of your storage
+This permission allows users to delete the chat generated files stored on their SD card.
+6. Connect and disconnect from Wi-Fi
+This permission is used in Melons messenger apps settings in order to connect and disconnect from Wi-Fi.
+7. Full network access and receive data from Internet
+This permission allows Melons messenger apps to access the device’s network for functions including ads and stickers, and other contents.
+8. View network connections
+This permission is used in Melons messenger apps settings in order to view network connections.
+9. View Wi-Fi connections
+This permission is used in Melons messenger apps settings in order to view Wi-Fi connections.
+10. Prevent phone from sleeping
+The only purpose using this permission is to prevent the phone from going to sleep when you are playing videos in full screen mode. It is not used for any other purposes.
+11.Directly call phone numbers & read phone status and identity & reroute outgoing calls
+This permission allows Melons messenger apps to inform you when receiving phone calls. This won’t result in unexpected fees and calls. Melons messenger apps won’t upload your privacy information.
+12.Read your messages (SMS or MMS) & receive messages (SMS or MMS) & receive messages (WAP)
+This permission allows Melons messenger apps to inform you when receiving messages. This won’t result in unexpected fees and messages. Melons messenger apps won’t upload your privacy information.
+13.Directly send and write messages ?SMS or MMS?
+This permission allows Melons messenger apps to send and write messages directly by SMS/MMS api by android system. This may only result in SMS fees and no other fees. Melons messenger apps won’t upload your privacy information.
+14.Read and Write Call Logs
+Melons messenger apps does not recognize or save users' contacts information for any programs. The only purpose is to show details of the call to users after a call. If user needs to clear call logs, Melons messenger apps need to write call log permission. We promise that we will never disclose your call log and short to any person or third-party interest information.
+15. Your reported spam phone number
+We collect your reported number only used to provide spam call or message alert service. We never and won't use your reported data to any third party. It is encrypted and safe for this service. 
+
+User Generated Content
+
+We also invite you to contribute information in and on our Apps, including your comments in spam reports, spam category, name corrections and any other information that you would like to be available on our Apps. You also may have the option to send a picture or your location through our Apps to someone you call. These pictures will not be available to all users, only to the receiver of the sent picture. We will not text or call any of your contacts without your explicit consent. If you contribute information to our Apps, your posting may become public and we cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy. In general, if you choose to disclose information about other people to us, you confirm that you have the authority to use and share such information.
+
+What do we do with your personal data?
+
+In case you are one of our users, we may process your personal data for the purposes listed below.
+
+As necessary to perform our contract with you, for our or third parties’ legitimate interests, especially in order to provide our Apps to you and other users, to assist our users in identifying potentially unwanted telephone calls, including:
+
+To match the information in your phone logs and contacts with numbers from the calls you make or receive, as well as with information in our database. We also may store this information for subsequent data validation for both you and other users of our Apps and other products;
+To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using our Apps;
+To send you push notifications. For example, if you missed a call and the number was not in your address book but we knew the name of the caller, we may send you a notification;
+To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising.
+If you contact us we may process your personal data to communicate with you about your use of our Apps, to respond to your inquiries, and for other user services purposes;
+To better understand how users access and use our Apps, both on an aggregated and individualized basis;
+To improve our Apps, and for research and analytics purposes;
+To administer our Apps, and other systems, including troubleshooting, and data analysis, testing, research, statistical and survey purposes;
+To improve our Apps to ensure that content is presented in the most effective manner for you and for your device;
+To keep our website, Apps and other systems safe and secure;
+
+Special Information for California Residents
+
+For California Residents, We provide  <Privacy Policy for California Residents>  separatly which addresses how we respect California's users' privacy. 
+

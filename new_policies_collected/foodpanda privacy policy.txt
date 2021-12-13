@@ -1,0 +1,306 @@
+Dear Customer,
+We are pleased that you are interested in data protection. We would like to give you an easily understandable overview of our data protection process.
+Our goal is to provide you with an amazing customer experience that also means that you can always trust us, that we are always transparent and honest to you. Your trust in our product is the reason why we can provide you with an amazing customer experience. We would like to thank you for this cooperation.
+1.†††††††††Who we are
+We are foodpanda and we love data protection.†
+While visiting our website, registering or placing orders, you agree to this privacy policy.
+As data controller, we determine how we process your personal data, for what purposes and by what means. While we are required by law to provide you with all of the following information, we do so primarily out of the belief that a partnership should always be honest.
+As data controller we are responsible that all our processing activities are in accordance with legal requirements but also you may reasonably expect these processing of your personal data (link to "legitimate interests").
+If you have any questions about data protection at foodpanda, you can contact our data protection officer at any time by sending an email to†compliance@foodpanda.sg.
+We are also a member of the large and fascinating family of the Delivery Hero Group.
+As a family, we make certain decisions together. Both our parent company, Delivery Hero SE, Oranienburger Straﬂe 70, 10117 Berlin and we jointly decide which means we will use to process your personal data and which purposes we consider to be appropriate.
+We will continue to be your point of contact if you have any questions about data protection.
+2.†††††††††Privacy is your right and the choice is yours
+As a customer you have the choice which information you would like to share with us. Please be aware, however, that when signing up to our platform, you are required to accept our terms of use. Legally speaking, this means you will enter into a contract with us under which you are entitled to use the platform, in accordance with the terms of use. Of course, we need some information from you to be able to perform our obligations under this contract. However, it is entirely up to you to choose whether you would like to provide such information or would rather not use our platform.
+You can take the following steps to control and manage how much personal data you share with us:
+You can take the following steps to disclose less information about yourself:
+Cookies & web-tracking: You can set your device or web browser to decline cookies and other web-tracking technologies (which is also possible through our consent manager). If you deactivate web-tracking, you will no longer see any personalized contents, offers or ads.
+Advertising:†If you do not want to receive newsletters from us, you can unsubscribe at any time. In this case, we will not be able to send you any cool offers.
+No data sharing:†If you don't want to share any information with us at all, that's a shame. In this case, you are free to decline the creation of a user account or may request to delete it at any time.
+3.†††††††††Your rights
+Right to access
+You have the right to be informed which data we store about you and how we process this data.
+Right to rectification
+If you notice that stored data is incorrect, you can always ask us to correct it.
+Right to deletion
+You can ask us at any time to delete the data we have stored about you by sending a deletion request to:†compliance@foodpanda.sg.
+Right to object to the processing of your data
+You can revoke your consent at any time or object to the further processing of your data. This also includes objecting to our processing, which we process without your consent but based on our legitimate interest. This applies, for example, to direct marketing. You can object to receiving further newsletters at any time.
+If you do not agree with one of our processing purposes based on our legitimate interest or wish to object to it, you may object to the processing at any time. Please write an email to†compliance@foodpanda.sg.†In this case we will review the processing activity again and either stop processing your data for this purpose or explain to you our reasons worth protecting and why we will continue with the processing.
+Right of complaint
+If you believe that we have done something wrong with your personal data or your rights, you can complain to the appropriate supervisory authority at any time.
+To exercise your rights, you can contact†compliance@foodpanda.sg†at any time. For example, if you would like to delete your data, or receive a copy of it, you may contact†dataprotection@foodpanda.sg.
+†
+4.†††††††††An overview of the personal data we process
+In this section you can find general information about the categories of personal data we process about you. For your understanding, personal data is information that directly identifies you (such as your name or photo picture) or enables us to indirectly identify you (for example, on the basis of a user ID linked with the personal information in your profile).
+We generally process the following categories of personal data for the following reasons:
+a.†††††††††††Profile data (master data):
+This includes your name, email address, password, telephone number, delivery addresses, interests, age
+Reason:
+This data is your master data, which we absolutely need for our services. Without an email address / telephone number and a password, you cannot create a profile. Together with your name, this is your master data. We need your age to ensure that you are not a minor.
+b.†††††††††††Delivery information:
+This includes your name, delivery address, phone number, order ID
+Reason:
+In accordance with the principle of data minimization, we only provide our riders and restaurants with the information that they need from you to prepare and deliver your order.
+c.†††††††††††Order history and information:
+This includes your order history, selected restaurants, invoices, order ID, comments on orders, information on payment method, delivery address, successful orders and cancelled orders
+Reason:
+Each time you place an order, this information will be added to your profile. You can view all this information in your profile at any time. The information should give you an overview of your own interests and previous orders. We will also use the same information to improve our services. In addition, we will anonymize this information when you request a deletion or when your profile becomes inactive in order to continue to use this information in an anonymized form to optimize our services.
+d.†††††††††††Location data:
+This includes your address, postcode, city, country and your deviceís longitude and †latitude
+Reason:
+We need these data to be able to deliver your orders (or enable the restaurant you have ordered from to deliver it to you). We create the longitude and latitude automatically in order to be able to process your delivery address in our other linked systems, such as our Rider app, and to display your address to our riders or riders of restaurants.
+e. ††††† Device information and access data:
+This includes your device ID, device identification, operating system and corresponding version, time of access, configuration settings, and your IP address
+Reason:
+Each time you access our platform, this information is stored by us for technical reasons. We also use parts of this information to detect suspicious behaviour at an early stage and to avert damage.
+f.† †††† Contact Information:
+This includes your name, address, telephone number, email address, or your ID from any social media (if applicable).
+Reason:
+If you contact us, we collect this data because we need to know who we are talking to and what we have been talking about so that we can help you with your reason for contacting us. This also applies if you leave comments on social media on our fan pages. We do not combine this data with your profile data on our platform, but we can still identify you by your social media ID.
+g.† ††† Communications data
+This includes your name, email address, telephone number, and device ID
+Reason:
+If you would like to receive an email newsletter, an SMS or an in-app push notification from us, we need certain information to send you the messages. Instead of addressing you with "Hey You", we find it more customer friendly to address you with your name. This category of personal information is also used by us to contact you, for example, if a product cannot be delivered and we want to offer you an alternative instead.
+h.† ††† Payment information:
+This includes your payment method, and encrypted, pseudonymized credit card information
+Reason:
+We need this information to initiate your payments and assign them to the orders you have placed. We also need this data to store your payment information for future orders (if you give us your consent to do so).
+5.†††††††††The purposes for which we process your data
+We process your personal data only in accordance with relevant data protection laws. We pay particular attention to the fact that all principles for the processing of personal data are taken into account. Therefore, we only process your data if this is lawful and you can reasonably expect it to be processed.
+In order to be able to offer you our services, the processing of your personal data is essential. Much of this data you transmit to us and other parts of the data we collect automatically when using our platforms.
+We process your personal data for the following purposes:
+I.† ††††† Creating and operating your account; delivering your orders
+a.†††††††††††Account Creation
+When creating a customer account you will be asked to enter your master data. This is absolutely necessary, as we cannot create a customer profile without this data. Your email address and telephone number are particularly important, as we can use this information to identify you in our system the next time you want to log in again. Furthermore, we would like to ask you to choose your password carefully. Do not use the same password on multiple websites. Your password should also be at least 12 characters long, at least one lowercase letter, one uppercase letter, one special character (!?#,%& etc.) and one digit.
+Categories of personal data:
+Profile data (master data)
+Device information and access data
+Legal basis:
+Performance of contract
+b.†††††††††††Login to an existing account
+If you already have an existing customer account, you will need to enter your email address and password to log in. If we detect irregularities during registration, such as entering the wrong password several times, we will take appropriate measures to prevent damage to you and us.†
+Categories of personal data:
+Profile data (master data)
+Legal basis:
+Performance of contract
+Security measures
+c.†††††††††††Single Sign-on with Facebook
+If you have a Facebook profile, you can register on our website to create a customer account or to register using the social plugin "Facebook Connect" of the social network Facebook, which is operated Facebook Ireland Limited 4 Grand Canal Square, Grand Canal Harbour, Dublin, Ireland ("Facebook"), within the framework of the so-called Single Sign On technology. You can recognize the social plugins of "Facebook Connect" on our website by the blue button with the Facebook logo and the inscription "Log in with Facebook" or "Connect with Facebook" or "Log in with Facebook" or "Sign in with Facebook".
+By using this "Facebook Connect" button on our website, you can also log in or register on our website using your Facebook user data. Only if you give your express consent prior to the registration process on the basis of a corresponding note on the exchange of data with Facebook, will we receive the general and publicly accessible information stored in your profile when using the Facebook "Facebook Connect" button on Facebook, depending on your personal data protection settings on Facebook. This information includes user ID, name, profile picture, age and gender.
+By using this "Facebook Connect" button on our website, you can log in or register on our website using your Facebook user data. Only if you give your express consent prior to the registration process on the basis of a corresponding note on the exchange of data with Facebook, will we receive the general and publicly accessible information stored in your profile when using the Facebook "Facebook Connect" button on Facebook, depending on your personal data protection settings on Facebook. This information includes user ID, name, profile picture and age.
+Further information on the Facebook Login can be found at:†https://www.facebook.com/privacy/explanation.†
+Categories of personal data:
+Profile data (master data)
+Contact Information
+Facebook profile information
+Legal basis:
+Consent
+d.†††††††††††Managing Your Profile
+You can log in to your profile at any time and change your personal data, such as name, email address or telephone number. You can also view your previous orders.
+Categories of personal data:
+Profile data, location data
+Order information
+Device information and access data
+Order information
+Communication data
+Payment information
+Legal basis:
+Performance of contract
+e.†††††††††††Order Processing
+Once you have successfully registered and decided to place your order, we will store this information in your profile and process it in further processes so that you can submit your order to us. When you submit your order, your personal data is transferred to our backend where it is transferred to other systems for further processing.
+Categories of personal data:
+Profile data (master data)
+Order history and information
+Delivery information
+Location data
+Device information and access data
+Legal basis:
+Performance of contract
+f. †††††††† Storing your cart for later
+After you have logged in to your profile and made your selection, the products will be saved in your profile. If you accidentally close your browser or app, you can continue to the last point of your order. ††We store this data to provide you with a better ordering experience where you can conveniently continue your order with browsers or apps that are accidentally closed.
+Categories of personal data:
+Profile data (master data)
+Device information and access data
+Order information
+Legal basis:
+Legitimate interest
+The legitimate interest is to provide you with a better ordering experience where you can conveniently continue your order with browsers or apps that are accidentally closed.
+g.††††† Delivering your order
+Once you have successfully placed your order, a number of processes are running in the background to ensure that your order is delivered quickly. This includes sharing your order data with the restaurant preparing your meal as well as with the rider delivering your order. In this context, please be informed that we use different types of riders for delivery. These can be permanent employees, freelancers or riders employed by third-party logistics companies.†
+Categories of personal data:
+Delivery information
+Legal basis:
+Performance of contract.
+h.†††††††††††Enabling calls from riders or restaurants to check on your order
+If a product of your choice is not available for delivery or our riders cannot reach you at the delivery address you provided, they have received instructions from us to call you so that the problem can be solved easily. Both the restaurants as well as the riders have no claim whatsoever to your personal data and under no circumstances may they use it for their own purposes. If you should nevertheless be contacted by a restaurant without your prior consent, we ask you to report this to us by e-mail to†compliance@foodpanda.sg
+Categories of personal data:
+Delivery information
+Legal basis:
+Performance of contract.
+i.†††††††††††††Saving your payment methods
+In order to make the ordering process even more convenient for you, we offer to save your preferred payment method. This means that you do not have to enter your payment details again the next time you place an order. Your payment data will be stored securely and weíll make sure it stays encrypted at all times. Restaurants will never receive your payment data.
+Categories of personal data:
+Payment information
+Legal basis:
+Consent
+II. ††††††† Fraud detection, prevention and security of our platform
+In order to protect our customers and our platform from possible attacks, we continuously monitor the activities on our websites and mobile applications. To keep the platform secure and guarantee you a safe ordering experience, we use various technical measures to ensure that suspicious behavior patterns are detected at an early stage and prevented as early as possible. To achieve this goal, several software-based monitoring mechanisms run in parallel and prevent potential attackers from damaging our platform.†
+The†decision-making process is automated and could potentially have an impact on the use of your registered account on our platform. If any such decision leads to a negative result for you and you do not agree with the outcome, you can contact us at†compliance@foodpanda.sg.†In this case, we will individually assess the circumstances of your case. All of our fraud detection and prevention algorithms are always open to human review. If you think that a mistake has been made we are happy to look into it and make corrections, if necessary.†
+Categories of personal data:
+Profile data (master data)
+Device information and access data
+Payment information
+Order information
+Legal basis:
+Legitimate interest
+III. †††††† Advertising and Marketing
+a.†††††††††Direct Marketing
+(i)†††††††††Newsletters and user surveys by email and/or text message
+If you have provided us with your email address or other contact data when signing up for our platform, we will send you by email, SMS or other text message regular offers of goods or services similar to those offered on our platform. We are constantly striving to improve our services. Your constructive feedback is very important to us. Therefore, our direct marketing newsletters might also include surveys where we ask for your honest feedback. So we will occasionally also send you customer surveys and ask you to give us your opinion.
+If you have objected to receiving such communications when registering your account, or at a later point in time, you will not receive any direct marketing emails. You are of course always free to opt out of such emails. In this case, we will store your contact details in a list of customers who have objected to receiving direct marketing, to make sure we can continuously comply with your objection.
+Not only do the contents of our newsletters and surveys vary, but so do the technologies and criteria we use to design our newsletters and segment customer groups. For example, a group of customers may receive a special newsletter promoting special deals from restaurants where customers have ordered. Other newsletters may refer to specific products that relate to a particular flavour, such as sushi, Indian cuisine or pizza. We use different information from your order history and delivery addresses to create these tailor-made offerings for you. Please be also aware that we are recording, in a pseudonymous manner, key performance indicators to assess the effectiveness of our direct marketing campaigns. This includes aggregated information about the opening and click-through rate for our direct marketing messages.
+This is a profiling process in which we†automatically process†your data. The specific customer segmentation will not have a†legal effect on you, nor will it similarly significantly affect you. The only effect you will notice are interesting offers on our platforms, bespoke to your interests and meal preferences.
+Nonetheless, if this automated decision-making leads to a negative result for you and you do not agree with this, you can contact us at†compliance@foodpanda.sg.†In this case, we will opt you out of customized newsletter communications and you will no longer receive any such messages going forward.†
+Categories of personal data:
+Profile data (master data)
+Location information
+Order information
+Device information and access data
+Legal basis:
+Legitimate interest
+ATTENTION: As already mentioned, you are entitled to object to the use of your email address for the aforementioned advertising purposes at any time, and free of charge, with effect for the future by changing your message preferences, using the ìunsubscribeî button at the end of a newsletter, or by contacting us at†compliance@foodpanda.sg.
+(ii)†††† App Notifications
+We have a strong interest in informing you about new restaurants or deals when using our app. We are always working to give you an amazing customer experience. To achieve this, we negotiate very good deals for you with our restaurant partners. To inform you about these deals, we send you in-app-notifications or push-notifications. It is imperative that you have activated this in your end devices.
+Categories of personal data:
+Location data
+Profile data (master data)
+Order information
+Legal basis:
+Consent
+b.†††††††††††Online Marketing
+Convincing potential customers that we offer an amazing customer experience and that every visit to our platform is worthwhile, is one of our key business priorities. In order to reach as many potential customers as possible, we are very active in the field of online marketing and conduct the following online marketing activities to attract new customers.†
+(i) †††† Targeting
+In principle, targeting means simply showing online advertisements (e.g. by showing banners on websites, or delivering ads on social media service timelines) tailored to specific target groups. We strive to deliver to you only advertisements that are in fact relevant for your interests and bring added value to your online experience.†
+In our targeting process, as a first step, we define a target group based on certain criteria such as location, age or meal preferences and, secondly,† we commission our service providers to show our advertising to the defined target group, both on our own websites as well as on online properties owned and operated by third-party publishers. To better define the intended target groups, we segment customer types and place different ads on different portals. We will use pseudonymous data for this purpose only. That means we will not be able to identify individual persons within the defined target groups.
+(ii) †††††† Retargeting
+As soon as you have visited our platform and, for example, have already placed an order in your shopping cart, we store this information through cookies and other web-tracking technologies. If you continue to surf other websites, our advertising partners will remind you on our behalf that you have not yet completed your order. We don't want you to miss out on our amazing customer experience.
+You can disable retargeting by installing appropriate add-ons for your browser. Furthermore, you can and should also regularly delete the cookies stored in the browser you are using.
+Categories of personal data:
+Device information and access data
+Location data
+Legal basis:
+Consent
+(iii) †† Cookies and web-tracking
+In the context of our online marketing activities we also use cookies and other web-tracking technologies. As stated above, these technologies help us to recognize your device and deliver to you only the type of advertisements relevant to your interests. As a matter of principle, our web-tracking technologies will process your device information and access data in pseudonymous form only. This means that we will not be able to identify you as a person on the basis of this data and we will not be able to attribute your interactions outside of our platform to your user account with us.
+To give you all the information you need, we have prepared a comprehensive Cookies, SDKs and Web-Tracking Policy explaining not only the details of our web-tracking technologies but also explaining how exactly you can opt-in or opt-out of the use of web-tracking technologies on our website.
+You can find our Cookies, SDKs and Web-Tracking Policy†here.
+Categories of personal data:
+Device information and access data
+Legal basis:
+Consent
+Performance of contract
+(iv) ††††† Bonus programs
+We want to reward our customers' loyalty with attractive deals and points. For this reason, we offer our customers the opportunity to participate in such bonus programs. Participation in a bonus program requires consent. You can revoke your consent at any time for the future. Please send us an email to†compliance@foodpanda.sg†for this purpose.
+Categories of personal data:
+Profile data (master data)
+Legal basis:
+Consent
+(v)††††††† Sweepstakes
+We sometimes run sweepstakes to provide our customers with the chance of winning prizes in relation to our platform (this might be a voucher, special offer or other cash-value award). Before you participate, we will ask you to grant us your consent to process your personal data for the purpose of signing you up for the campaign. If you refuse to grant your consent we cannot offer you to take part in the sweepstake.
+If you have already given your consent and would like to revoke it for the future, you can do so at any time by sending an email to†compliance@foodpanda.sg.†In this case, we will exclude you from participating in our sweepstakes and you will not receive any further invitations to sweepstakes.†
+Categories of personal data:
+Contact Information
+Legal basis:
+Consent
+(vi) †† User interviews for market research purposes:
+We always develop new products and try to adapt our services to the wishes of our customers. In order to measure the effectiveness of these changes, we regularly offer interviews with our User Experience team. In these interviews we record your usage behaviour and ask you for possible optimisation possibilities.
+Participation in the interviews requires your consent. If you have already given your consent and would like to revoke it for the future, you can do so at any time by sending an email to†compliance@foodpanda.sg.†In this case we will exclude you from participating in our interviews and you will not receive any further invitations for them.
+Categories of personal data:
+Profile data (master data)
+Delivery information
+Order history and information
+Legal basis:
+Consent
+(vii) † Vouchers
+We often offer vouchers for our platforms. The reasons can vary. The purpose of these vouchers is to reward our loyal customers and to encourage them to continue to lead our loyal customers. In order to be able to check the number, the value and the frequency of use of the vouchers, but also to avoid misuse of these vouchers, we collect various personal data.
+Categories of personal data:
+Profile data (master data)
+Legal basis:
+Legitimate interest
+IV.† †† Social Media Sites
+We have profiles on various social media platforms on which we advertise our products and interact with customers. Since we operate these profiles on third-party platforms, including Facebook and Instagram, each time you visit these social media offerings the operators of these social media platforms collect different personal data from you. The social media platforms Facebook and Instagram are operated by Facebook.
+a.†††††††††††Responsibilities
+We and the respective operators of the social media platforms act as joint controllers with respect to the collection of your personal data on our social media sites, as well as the analysis of the use of our social media sites by social media users. For this purpose, we and Facebook have agreed on a joint controllership agreement in accordance with Art. 26 GDPR.†
+Also, the operators of the social media platforms themselves are data controllers for the general use of their social media services and interactions outside our profiles and social media sites. This sole responsibility also applies to any processing of your social media profile data for purposes other than analyzing the traffic on our social media sites.
+The following links will show you exactly which data is collected by the respective social media operators:
+Privacy Policy Facebook
+Privacy Policy Instagram
+
+b.†††††††† Data processing
+Facebook provides page administrators with aggregated statistics and insights that help them understand the types of actions people take on their pages ("Page Insights"). Please be informed that we only receive aggregated user reports from Facebook. At no point can we attribute any page visit or other interaction to individual social media profiles.
+When you visit or interact with one of our social media sites or its content, information such as the following may be collected and used to create Page Insights:
+* Viewing a page, or a post or video from a page
+* Following or unfollowing a page
+* Liking or unliking a page or post
+* Recommending a page in a post or comment
+* Commenting on, sharing or reacting to a page post (including the type of reaction)
+* Hiding a page's post or reporting it as spam
+* Clicking a link to a page from another page on Facebook or from a website off Facebook
+* Hovering over a page's name or profile picture to see a preview of the page's content
+* Clicking on the website, phone number, Get Directions button or other button on a page
+* Whether you're on a computer or mobile device while visiting or interacting with a page or its content.
+c.† †††† Your data subject rights
+As part of our agreement with Facebook, with respect to our social media sites, we have determined that Facebook is primarily responsible for fulfilling its information obligations in connection with the Page Insight data. For more information about your data subject rights on Facebook, please see†Facebook's Page-Insights Privacy Policy.
+V.† ††† Customer Relationship Management
+(a) ††† Your requests
+Your satisfaction is our biggest goal. Therefore we are very keen to be available for all your questions and to answer them. In order to be able to answer these questions and understand the overall problem, we store the conversation content in our Customer Relationship Management System when you contact us.
+The content of the information we store depends on the information you provide to us as part of our communications.
+Categories of personal data:
+Contact information
+Order history and information
+Legal basis:
+Performance of contract
+(b) ††† Call Center
+If you contact us by phone, we store the conversation with your consent for quality assurance purposes. In individual cases, we also use the recordings for quality improvement in customer service, i.e. for training purposes (coaching) with our employees. The content of the information we store depends on the information you provide to us as part of our communications.† The stored telephone calls are deleted after 90 days at the latest or if the purpose of the storage, i.e. the quality check, is fulfilled earlier.
+Categories of personal data:
+Contact information
+Order history and information
+Legal basis:
+Consent
+VI.†††† Mergers & Acquisitions, change of ownership
+In the event of a merger with or acquisition by another company, we will disclose certain limited information to that company. Of course, we will require the company to comply with applicable data protection laws and regulations.† We will endeavour to keep the extent of the data shared with the other company to the absolute minimum required in order to conclude the transaction.
+Categories of personal data:
+Contact information
+Delivery information
+Location data
+Profile data (master data)
+Device information and access data
+Order history and information
+Communications data
+Payment information
+Legal basis:
+Legitimate interest
+6.† ††Who we share your personal data with
+We never give your data to unauthorized third parties. However, in order to run our business efficiently, we obtain the services of selected service providers and give them limited and strictly monitored access to some of our data. Before we forwarding personal data to these partner companies for processing on our behalf, each individual company undergoes an audit. All data recipients must meet the legal data protection requirements and prove their data protection level with appropriate proofs.
+a.†††††††††††Delivery Hero Group Companies
+We are part of an international group of companies with legal entities in many parts of the world. This also includes our parent company, Delivery Hero SE, whose headquarters are located in Berlin, Germany. To use our resources efficiently and ensure that our business processes are functioning properly, we will share personal data with our joint controller Delivery Hero SE on a regular basis. In certain situations, we might also share limited data with other group companies, for example, to assist with customer support requests, conduct legal assessments or implement IT and platform security measures.
+All Delivery Hero group companies are bound by strict intra-group data transfer agreements which comply with applicable data processing laws and principles and which apply whenever personal data is shared with affiliated companies.
+b.†††††††††††Service Providers and data processors
+We use different service providers and data processors for our daily processing activities. These service providers and data procesors process your personal data in accordance with the applicable local data protection laws and requirements and are permitted to process personal data only according to our instructions.† Our services providers and data processors have no claims whatsoever to process your personal data for their own, independent purposes. We also monitor our processors and include only those who meet our data protection standards.
+You have already learned about some of the parties we use as service providers above and can also find information on data recipients in our Cookies, SDKs and Web-Tracking Policy. Our user platforms and databases run on cloud resources provided by the EU subsidiaries of Google and Amazon Web Services (AWS). Because we use different data processors and change them from time to time, it is not possible for us to identify all individual recipients of personal data in this Privacy Policy.
+c.†††††††††††Third parties
+In addition to data processors, we also work with third parties, to whom we also transmit your personal data, but who are not bound by our instructions. These are, for example, our consultants, lawyers or tax consultants who receive your data from us on the basis of a contract and process your personal data for legal reasons or to protect our own interests.
+We do not sell or rent your personal data to third parties under any circumstances. This will never take place without your explicit, informed consent.
+d.†††††††††††Prosecuting authorities, courts and other public bodies
+Unfortunately, it can happen that a few of our customers and service providers do not behave fairly and want to harm us. In these cases, we are not only obliged to hand over personal data due to legal obligations, it is also in our interest to prevent damage and to enforce our claims and to reject unjustified claims.
+7.†††††††How long we store your data
+We generally delete your data after the purpose has been fulfilled. The exact deletion rules are defined in our global policies and supporting local retention schedules. Different deletion rules apply depending on the purpose of the processing. Within our deletion concepts we have defined various data classes and assigned regular maximum retention and deletion periods to them. When the retention period has expired, the stored data will be deleted accordingly. If you have not used your user account on our platform for a period of more than three years, we will delete your account to make sure to comply with the principle of storage limitation. Before this happens, you will receive a separate notification from us to the email address registered for your user account.
+In addition to the deletion rules we have defined ourselves, there are other legal retention periods which we must also observe. For various legal documents, such as invoices or business letters, applicable laws define minimum retention periods. For example, tax data must be kept for a period of between six and ten years or even longer in some cases. These special retention periods vary according to local legal requirements.
+Therefore, despite your request for deletion of your data, we may still have to store some of the stored data due to legal regulations. In this case, however, we will restrict data from further processing.
+Furthermore, we will continue to store your data if we have a right to do so in accordance with applicable local laws. This applies in particular if we need your personal data for the establishment, exercise or defence of legal claims.
+8.†††††††Right of modification
+We reserve the right to change this data protection declaration in compliance with the statutory provisions. We will inform you of any significant changes, such as changes of purpose or new purposes of processing.
+†
+Last update: November 2021†
+
